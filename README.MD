@@ -1,4 +1,4 @@
-# vuhl/vu-prototype
+# SavageBits/javascript-bootstrap
 
 ## Getting started
 
